@@ -73,6 +73,7 @@
     <Content Include="packages.config" />
     <Content Include="package.json" />
     <Content Include="bower.json" />
+    <Content Include="css\global.scss" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -81,11 +82,20 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\global.css" />
+    <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
     <Content Include="gulpfile.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
