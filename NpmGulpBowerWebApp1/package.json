@@ -4,7 +4,9 @@
   "description": "",
   "main": "Default.aspx",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "bower": "^1.7.7"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
