@@ -1,0 +1,4 @@
+syntax: glob
+NpmGulpBowerWebApp1/bin/*
+NpmGulpBowerWebApp1/obj/*
+.vs/*
