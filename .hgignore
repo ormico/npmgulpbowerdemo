@@ -2,3 +2,5 @@ syntax: glob
 NpmGulpBowerWebApp1/bin/*
 NpmGulpBowerWebApp1/obj/*
 .vs/*
+~$Intro to NPM, Gulp, and Bower.pptx
+NpmGulpBowerWebApp1/css/global.css
