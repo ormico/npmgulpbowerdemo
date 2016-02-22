@@ -7,4 +7,7 @@ This is the PowerPoint and demo code I used for a User Group presentation on add
 * [Gulp](http://gulpjs.com)
 * [Bower](http://bower.io)
 
+TODO: Add slides on [Visual Studio Task Runner Explorer](https://visualstudiogallery.msdn.microsoft.com/8e1b4368-4afb-467a-bc13-9650572db708)
+
+
 MIT License
