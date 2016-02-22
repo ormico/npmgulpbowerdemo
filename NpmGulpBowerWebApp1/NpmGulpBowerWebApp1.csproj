@@ -70,7 +70,10 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="packages.config" />
+    <Content Include="css\all.css" />
+    <Content Include="packages.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="package.json" />
     <Content Include="bower.json" />
     <Content Include="css\global.scss" />
@@ -82,10 +85,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="css\global.css" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
     <Content Include="gulpfile.js" />
+    <Content Include="scripts\all.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
