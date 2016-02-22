@@ -4,3 +4,5 @@ NpmGulpBowerWebApp1/obj/*
 .vs/*
 ~$Intro to NPM, Gulp, and Bower.pptx
 NpmGulpBowerWebApp1/css/global.css
+NpmGulpBowerWebApp1/scripts/all.js
+NpmGulpBowerWebApp1/css/all.css
