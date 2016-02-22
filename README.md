@@ -6,3 +6,5 @@ This is the PowerPoint and demo code I used for a User Group presentation on add
 * [NPM](https://www.npmjs.com)
 * [Gulp](http://gulpjs.com)
 * [Bower](http://bower.io)
+
+MIT License
