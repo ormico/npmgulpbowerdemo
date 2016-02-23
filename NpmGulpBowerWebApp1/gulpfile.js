@@ -25,7 +25,7 @@ gulp.task('app-css', ['app-sass'], function (done) {
       .pipe(gulp.dest('./css/'));
 });
 
-// Task: app-css
+// Task: app-sass
 // scan all *.scss files under css folder
 // run these files through the sass compiler
 // sending all errors to sass.logError
