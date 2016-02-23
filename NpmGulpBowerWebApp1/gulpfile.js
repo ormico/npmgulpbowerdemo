@@ -38,7 +38,7 @@ gulp.task('app-sass', function (done) {
 
 // Task: app-js
 // concatenate jquery, bootstrap, and all js files in ./scripts
-// then minify uisng uglify while preserving license comments
+// then minify using uglify while preserving license comments
 // and create source map file(s) for js debugging
 // write result out to ./scripts/all.js and ./scripts/all.js.map
 gulp.task('app-js', function () {
